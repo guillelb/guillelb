@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <p align="left">
   <h1>
-    Welcome to my Github page :leaves:!
+    Welcome to my Github page 🔭!
   </h1>
 </p>
 
